@@ -1,0 +1,13 @@
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.svg text eol=lf

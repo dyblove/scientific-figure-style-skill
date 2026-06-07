@@ -1,0 +1,2455 @@
+{
+  "count": 50,
+  "images": [
+    {
+      "file": "007f25972c6fba64f00dd943d32ac15.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\007f25972c6fba64f00dd943d32ac15.jpg",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "palette": [
+        {
+          "hex": "#a0e0a0",
+          "count": 1285
+        },
+        {
+          "hex": "#a0c0e0",
+          "count": 1111
+        },
+        {
+          "hex": "#ffe0e0",
+          "count": 996
+        },
+        {
+          "hex": "#f08080",
+          "count": 865
+        },
+        {
+          "hex": "#ffb0b0",
+          "count": 836
+        },
+        {
+          "hex": "#4090c0",
+          "count": 812
+        },
+        {
+          "hex": "#f0b080",
+          "count": 787
+        },
+        {
+          "hex": "#a0d0e0",
+          "count": 426
+        },
+        {
+          "hex": "#a0c0f0",
+          "count": 219
+        },
+        {
+          "hex": "#40b060",
+          "count": 205
+        }
+      ]
+    },
+    {
+      "file": "03dcdee127121207f05cd956b5f7da9.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\03dcdee127121207f05cd956b5f7da9.jpg",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "palette": [
+        {
+          "hex": "#a0c0d0",
+          "count": 2156
+        },
+        {
+          "hex": "#3060a0",
+          "count": 1816
+        },
+        {
+          "hex": "#6090c0",
+          "count": 1771
+        },
+        {
+          "hex": "#d0e0f0",
+          "count": 1492
+        },
+        {
+          "hex": "#b0d0e0",
+          "count": 1392
+        },
+        {
+          "hex": "#5080b0",
+          "count": 1182
+        },
+        {
+          "hex": "#80c080",
+          "count": 808
+        },
+        {
+          "hex": "#6090b0",
+          "count": 507
+        },
+        {
+          "hex": "#306090",
+          "count": 381
+        },
+        {
+          "hex": "#204050",
+          "count": 302
+        }
+      ]
+    },
+    {
+      "file": "1780058936004.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780058936004.jpg",
+      "width": 1108,
+      "height": 636,
+      "aspect_ratio": 1.7421,
+      "palette": [
+        {
+          "hex": "#e0c070",
+          "count": 1915
+        },
+        {
+          "hex": "#b08040",
+          "count": 1855
+        },
+        {
+          "hex": "#f0f0b0",
+          "count": 1714
+        },
+        {
+          "hex": "#6080b0",
+          "count": 1422
+        },
+        {
+          "hex": "#906080",
+          "count": 1389
+        },
+        {
+          "hex": "#b090a0",
+          "count": 1106
+        },
+        {
+          "hex": "#60b0a0",
+          "count": 986
+        },
+        {
+          "hex": "#a0d0a0",
+          "count": 824
+        },
+        {
+          "hex": "#c0b0c0",
+          "count": 713
+        },
+        {
+          "hex": "#e08040",
+          "count": 510
+        }
+      ]
+    },
+    {
+      "file": "1780061729079.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780061729079.jpg",
+      "width": 1132,
+      "height": 937,
+      "aspect_ratio": 1.2081,
+      "palette": [
+        {
+          "hex": "#c0e0f0",
+          "count": 1827
+        },
+        {
+          "hex": "#90b0d0",
+          "count": 1305
+        },
+        {
+          "hex": "#90c030",
+          "count": 1257
+        },
+        {
+          "hex": "#7070c0",
+          "count": 1234
+        },
+        {
+          "hex": "#4030a0",
+          "count": 1128
+        },
+        {
+          "hex": "#7060b0",
+          "count": 1026
+        },
+        {
+          "hex": "#8080c0",
+          "count": 877
+        },
+        {
+          "hex": "#8090c0",
+          "count": 859
+        },
+        {
+          "hex": "#7070b0",
+          "count": 522
+        },
+        {
+          "hex": "#6060b0",
+          "count": 497
+        }
+      ]
+    },
+    {
+      "file": "1780061763024.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780061763024.jpg",
+      "width": 1148,
+      "height": 394,
+      "aspect_ratio": 2.9137,
+      "palette": [
+        {
+          "hex": "#e08020",
+          "count": 2950
+        },
+        {
+          "hex": "#3090d0",
+          "count": 1407
+        },
+        {
+          "hex": "#3090e0",
+          "count": 543
+        },
+        {
+          "hex": "#4090d0",
+          "count": 448
+        },
+        {
+          "hex": "#4090c0",
+          "count": 206
+        },
+        {
+          "hex": "#d08020",
+          "count": 192
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 173
+        },
+        {
+          "hex": "#d08030",
+          "count": 173
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 170
+        },
+        {
+          "hex": "#b0d0e0",
+          "count": 168
+        }
+      ]
+    },
+    {
+      "file": "1780061790590.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780061790590.jpg",
+      "width": 1148,
+      "height": 962,
+      "aspect_ratio": 1.1933,
+      "palette": [
+        {
+          "hex": "#9080b0",
+          "count": 1824
+        },
+        {
+          "hex": "#d0c0e0",
+          "count": 925
+        },
+        {
+          "hex": "#504070",
+          "count": 840
+        },
+        {
+          "hex": "#f0d090",
+          "count": 565
+        },
+        {
+          "hex": "#a090b0",
+          "count": 295
+        },
+        {
+          "hex": "#605080",
+          "count": 215
+        },
+        {
+          "hex": "#9080a0",
+          "count": 172
+        },
+        {
+          "hex": "#403070",
+          "count": 143
+        },
+        {
+          "hex": "#b0a0c0",
+          "count": 105
+        },
+        {
+          "hex": "#404070",
+          "count": 105
+        }
+      ]
+    },
+    {
+      "file": "1780061814990.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780061814990.jpg",
+      "width": 1134,
+      "height": 816,
+      "aspect_ratio": 1.3897,
+      "palette": [
+        {
+          "hex": "#70c0f0",
+          "count": 3831
+        },
+        {
+          "hex": "#d080c0",
+          "count": 2077
+        },
+        {
+          "hex": "#70a0e0",
+          "count": 2057
+        },
+        {
+          "hex": "#ffe0c0",
+          "count": 2006
+        },
+        {
+          "hex": "#d0c0e0",
+          "count": 1875
+        },
+        {
+          "hex": "#9080b0",
+          "count": 1832
+        },
+        {
+          "hex": "#70b070",
+          "count": 1532
+        },
+        {
+          "hex": "#80c0e0",
+          "count": 1472
+        },
+        {
+          "hex": "#20c0a0",
+          "count": 1426
+        },
+        {
+          "hex": "#f0c070",
+          "count": 1398
+        }
+      ]
+    },
+    {
+      "file": "1780061922317.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780061922317.jpg",
+      "width": 8329,
+      "height": 10532,
+      "aspect_ratio": 0.7908,
+      "palette": [
+        {
+          "hex": "#c0e0c0",
+          "count": 977
+        },
+        {
+          "hex": "#f0c0c0",
+          "count": 773
+        },
+        {
+          "hex": "#c0e0f0",
+          "count": 679
+        },
+        {
+          "hex": "#f0e0c0",
+          "count": 639
+        },
+        {
+          "hex": "#e0c0e0",
+          "count": 603
+        },
+        {
+          "hex": "#ffd0d0",
+          "count": 484
+        },
+        {
+          "hex": "#e0d0ff",
+          "count": 351
+        },
+        {
+          "hex": "#ffd0c0",
+          "count": 343
+        },
+        {
+          "hex": "#a0f0f0",
+          "count": 240
+        },
+        {
+          "hex": "#d0f0f0",
+          "count": 224
+        }
+      ]
+    },
+    {
+      "file": "1780061968705.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780061968705.jpg",
+      "width": 817,
+      "height": 960,
+      "aspect_ratio": 0.851,
+      "palette": [
+        {
+          "hex": "#d0f0f0",
+          "count": 2917
+        },
+        {
+          "hex": "#d0e0f0",
+          "count": 1166
+        },
+        {
+          "hex": "#ffe0d0",
+          "count": 464
+        },
+        {
+          "hex": "#ffd0d0",
+          "count": 397
+        },
+        {
+          "hex": "#c0e0f0",
+          "count": 365
+        },
+        {
+          "hex": "#b0f0f0",
+          "count": 291
+        },
+        {
+          "hex": "#c0f0f0",
+          "count": 269
+        },
+        {
+          "hex": "#ffc0c0",
+          "count": 258
+        },
+        {
+          "hex": "#d0f0d0",
+          "count": 215
+        },
+        {
+          "hex": "#f0b070",
+          "count": 214
+        }
+      ]
+    },
+    {
+      "file": "1780062075410.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062075410.jpg",
+      "width": 1271,
+      "height": 574,
+      "aspect_ratio": 2.2143,
+      "palette": [
+        {
+          "hex": "#005090",
+          "count": 2003
+        },
+        {
+          "hex": "#40b050",
+          "count": 1003
+        },
+        {
+          "hex": "#408040",
+          "count": 934
+        },
+        {
+          "hex": "#f04030",
+          "count": 605
+        },
+        {
+          "hex": "#f02030",
+          "count": 601
+        },
+        {
+          "hex": "#c02030",
+          "count": 542
+        },
+        {
+          "hex": "#ffb010",
+          "count": 466
+        },
+        {
+          "hex": "#00b0e0",
+          "count": 457
+        },
+        {
+          "hex": "#e01080",
+          "count": 444
+        },
+        {
+          "hex": "#d0a030",
+          "count": 426
+        }
+      ]
+    },
+    {
+      "file": "1780062106629.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062106629.jpg",
+      "width": 1299,
+      "height": 577,
+      "aspect_ratio": 2.2513,
+      "palette": [
+        {
+          "hex": "#90d0c0",
+          "count": 3767
+        },
+        {
+          "hex": "#205060",
+          "count": 1625
+        },
+        {
+          "hex": "#308080",
+          "count": 1416
+        },
+        {
+          "hex": "#ffc010",
+          "count": 295
+        },
+        {
+          "hex": "#30a0a0",
+          "count": 294
+        },
+        {
+          "hex": "#90b0b0",
+          "count": 285
+        },
+        {
+          "hex": "#409030",
+          "count": 272
+        },
+        {
+          "hex": "#b00020",
+          "count": 269
+        },
+        {
+          "hex": "#a0d0c0",
+          "count": 205
+        },
+        {
+          "hex": "#d09030",
+          "count": 201
+        }
+      ]
+    },
+    {
+      "file": "1780062187561.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062187561.jpg",
+      "width": 1214,
+      "height": 611,
+      "aspect_ratio": 1.9869,
+      "palette": [
+        {
+          "hex": "#f0e090",
+          "count": 3171
+        },
+        {
+          "hex": "#60c0a0",
+          "count": 1280
+        },
+        {
+          "hex": "#207040",
+          "count": 1264
+        },
+        {
+          "hex": "#60a070",
+          "count": 547
+        },
+        {
+          "hex": "#70b0f0",
+          "count": 529
+        },
+        {
+          "hex": "#a0d090",
+          "count": 430
+        },
+        {
+          "hex": "#c0e090",
+          "count": 361
+        },
+        {
+          "hex": "#f0e0a0",
+          "count": 361
+        },
+        {
+          "hex": "#50a030",
+          "count": 360
+        },
+        {
+          "hex": "#f0e0b0",
+          "count": 321
+        }
+      ]
+    },
+    {
+      "file": "1780062299545.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062299545.jpg",
+      "width": 1248,
+      "height": 1037,
+      "aspect_ratio": 1.2035,
+      "palette": [
+        {
+          "hex": "#d0e0c0",
+          "count": 2348
+        },
+        {
+          "hex": "#2070a0",
+          "count": 616
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 574
+        },
+        {
+          "hex": "#d0c0e0",
+          "count": 513
+        },
+        {
+          "hex": "#3070a0",
+          "count": 417
+        },
+        {
+          "hex": "#e0c0b0",
+          "count": 378
+        },
+        {
+          "hex": "#60b050",
+          "count": 207
+        },
+        {
+          "hex": "#a03030",
+          "count": 200
+        },
+        {
+          "hex": "#2060a0",
+          "count": 198
+        },
+        {
+          "hex": "#5080b0",
+          "count": 184
+        }
+      ]
+    },
+    {
+      "file": "1780062362336.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062362336.jpg",
+      "width": 1239,
+      "height": 1084,
+      "aspect_ratio": 1.143,
+      "palette": [
+        {
+          "hex": "#c0d0f0",
+          "count": 374
+        },
+        {
+          "hex": "#ffe0b0",
+          "count": 187
+        },
+        {
+          "hex": "#c09030",
+          "count": 179
+        },
+        {
+          "hex": "#d0e0f0",
+          "count": 147
+        },
+        {
+          "hex": "#408040",
+          "count": 139
+        },
+        {
+          "hex": "#20c0e0",
+          "count": 126
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 119
+        },
+        {
+          "hex": "#b0c0a0",
+          "count": 108
+        },
+        {
+          "hex": "#c0c0a0",
+          "count": 108
+        },
+        {
+          "hex": "#ffe0c0",
+          "count": 89
+        }
+      ]
+    },
+    {
+      "file": "1780062387725.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062387725.jpg",
+      "width": 1228,
+      "height": 720,
+      "aspect_ratio": 1.7056,
+      "palette": [
+        {
+          "hex": "#80c0d0",
+          "count": 14953
+        },
+        {
+          "hex": "#c0e090",
+          "count": 10254
+        },
+        {
+          "hex": "#b0d0e0",
+          "count": 3892
+        },
+        {
+          "hex": "#60c0a0",
+          "count": 2236
+        },
+        {
+          "hex": "#a0d0f0",
+          "count": 1357
+        },
+        {
+          "hex": "#70b0d0",
+          "count": 1069
+        },
+        {
+          "hex": "#f0c070",
+          "count": 1065
+        },
+        {
+          "hex": "#80b0d0",
+          "count": 673
+        },
+        {
+          "hex": "#c090c0",
+          "count": 500
+        },
+        {
+          "hex": "#4070b0",
+          "count": 461
+        }
+      ]
+    },
+    {
+      "file": "1780062435753.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780062435753.jpg",
+      "width": 1140,
+      "height": 1130,
+      "aspect_ratio": 1.0088,
+      "palette": [
+        {
+          "hex": "#ffe030",
+          "count": 2508
+        },
+        {
+          "hex": "#ffffd0",
+          "count": 1628
+        },
+        {
+          "hex": "#4070b0",
+          "count": 1405
+        },
+        {
+          "hex": "#fff0a0",
+          "count": 1336
+        },
+        {
+          "hex": "#ffe070",
+          "count": 1286
+        },
+        {
+          "hex": "#ffe090",
+          "count": 1244
+        },
+        {
+          "hex": "#90a0d0",
+          "count": 1155
+        },
+        {
+          "hex": "#b0e0a0",
+          "count": 922
+        },
+        {
+          "hex": "#5080c0",
+          "count": 769
+        },
+        {
+          "hex": "#3080c0",
+          "count": 742
+        }
+      ]
+    },
+    {
+      "file": "1780064147622.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780064147622.jpg",
+      "width": 897,
+      "height": 1111,
+      "aspect_ratio": 0.8074,
+      "palette": [
+        {
+          "hex": "#60c0a0",
+          "count": 374
+        },
+        {
+          "hex": "#d0c0e0",
+          "count": 235
+        },
+        {
+          "hex": "#d0b0e0",
+          "count": 200
+        },
+        {
+          "hex": "#c05090",
+          "count": 157
+        },
+        {
+          "hex": "#e0d0f0",
+          "count": 116
+        },
+        {
+          "hex": "#e09030",
+          "count": 116
+        },
+        {
+          "hex": "#e0c0e0",
+          "count": 91
+        },
+        {
+          "hex": "#907050",
+          "count": 91
+        },
+        {
+          "hex": "#c06090",
+          "count": 86
+        },
+        {
+          "hex": "#f0e0c0",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "file": "1780064844032.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780064844032.jpg",
+      "width": 865,
+      "height": 1216,
+      "aspect_ratio": 0.7113,
+      "palette": [
+        {
+          "hex": "#b0c0d0",
+          "count": 812
+        },
+        {
+          "hex": "#90a0c0",
+          "count": 282
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 269
+        },
+        {
+          "hex": "#80a0c0",
+          "count": 261
+        },
+        {
+          "hex": "#a0b0c0",
+          "count": 244
+        },
+        {
+          "hex": "#a0b0d0",
+          "count": 231
+        },
+        {
+          "hex": "#f0d0d0",
+          "count": 218
+        },
+        {
+          "hex": "#f0d0c0",
+          "count": 213
+        },
+        {
+          "hex": "#ffe0b0",
+          "count": 192
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 185
+        }
+      ]
+    },
+    {
+      "file": "1780064867483.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780064867483.jpg",
+      "width": 871,
+      "height": 1212,
+      "aspect_ratio": 0.7186,
+      "palette": [
+        {
+          "hex": "#1070b0",
+          "count": 784
+        },
+        {
+          "hex": "#f0e0e0",
+          "count": 721
+        },
+        {
+          "hex": "#1080b0",
+          "count": 346
+        },
+        {
+          "hex": "#f0c0d0",
+          "count": 288
+        },
+        {
+          "hex": "#f0d0d0",
+          "count": 282
+        },
+        {
+          "hex": "#b0d0f0",
+          "count": 255
+        },
+        {
+          "hex": "#b03030",
+          "count": 234
+        },
+        {
+          "hex": "#e0c0c0",
+          "count": 231
+        },
+        {
+          "hex": "#1060a0",
+          "count": 215
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 180
+        }
+      ]
+    },
+    {
+      "file": "1780064891853.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780064891853.jpg",
+      "width": 842,
+      "height": 650,
+      "aspect_ratio": 1.2954,
+      "palette": [
+        {
+          "hex": "#b0c0d0",
+          "count": 331
+        },
+        {
+          "hex": "#a0b0d0",
+          "count": 324
+        },
+        {
+          "hex": "#80a0c0",
+          "count": 273
+        },
+        {
+          "hex": "#b0c0e0",
+          "count": 239
+        },
+        {
+          "hex": "#90a0c0",
+          "count": 226
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 215
+        },
+        {
+          "hex": "#d0e0f0",
+          "count": 214
+        },
+        {
+          "hex": "#a0b0c0",
+          "count": 210
+        },
+        {
+          "hex": "#ffe0e0",
+          "count": 208
+        },
+        {
+          "hex": "#ffe0d0",
+          "count": 201
+        }
+      ]
+    },
+    {
+      "file": "1780064925210.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780064925210.jpg",
+      "width": 860,
+      "height": 764,
+      "aspect_ratio": 1.1257,
+      "palette": [
+        {
+          "hex": "#f0c0d0",
+          "count": 1812
+        },
+        {
+          "hex": "#b0d0ff",
+          "count": 1468
+        },
+        {
+          "hex": "#f08070",
+          "count": 578
+        },
+        {
+          "hex": "#d0b0d0",
+          "count": 429
+        },
+        {
+          "hex": "#d0a0d0",
+          "count": 334
+        },
+        {
+          "hex": "#b0d0f0",
+          "count": 331
+        },
+        {
+          "hex": "#e08070",
+          "count": 180
+        },
+        {
+          "hex": "#e0c0c0",
+          "count": 174
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 159
+        },
+        {
+          "hex": "#b0a090",
+          "count": 150
+        }
+      ]
+    },
+    {
+      "file": "1780064968271.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780064968271.jpg",
+      "width": 1022,
+      "height": 678,
+      "aspect_ratio": 1.5074,
+      "palette": [
+        {
+          "hex": "#f0c0c0",
+          "count": 5730
+        },
+        {
+          "hex": "#c0e0f0",
+          "count": 4952
+        },
+        {
+          "hex": "#c0e0e0",
+          "count": 2819
+        },
+        {
+          "hex": "#d0e0f0",
+          "count": 802
+        },
+        {
+          "hex": "#f0d0d0",
+          "count": 683
+        },
+        {
+          "hex": "#d0e0e0",
+          "count": 151
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 124
+        },
+        {
+          "hex": "#f0d0c0",
+          "count": 106
+        },
+        {
+          "hex": "#e09090",
+          "count": 103
+        },
+        {
+          "hex": "#c0a0a0",
+          "count": 101
+        }
+      ]
+    },
+    {
+      "file": "1780065005636.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780065005636.jpg",
+      "width": 1136,
+      "height": 612,
+      "aspect_ratio": 1.8562,
+      "palette": [
+        {
+          "hex": "#90c080",
+          "count": 154
+        },
+        {
+          "hex": "#70c090",
+          "count": 139
+        },
+        {
+          "hex": "#40a0a0",
+          "count": 116
+        },
+        {
+          "hex": "#603080",
+          "count": 99
+        },
+        {
+          "hex": "#80b090",
+          "count": 96
+        },
+        {
+          "hex": "#603070",
+          "count": 77
+        },
+        {
+          "hex": "#50a0a0",
+          "count": 75
+        },
+        {
+          "hex": "#80c080",
+          "count": 72
+        },
+        {
+          "hex": "#70c080",
+          "count": 70
+        },
+        {
+          "hex": "#90b090",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "file": "1780065073108.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780065073108.jpg",
+      "width": 1116,
+      "height": 629,
+      "aspect_ratio": 1.7742,
+      "palette": [
+        {
+          "hex": "#b0e0e0",
+          "count": 8146
+        },
+        {
+          "hex": "#4080b0",
+          "count": 4109
+        },
+        {
+          "hex": "#c08010",
+          "count": 1402
+        },
+        {
+          "hex": "#900000",
+          "count": 818
+        },
+        {
+          "hex": "#b0e0f0",
+          "count": 553
+        },
+        {
+          "hex": "#800010",
+          "count": 368
+        },
+        {
+          "hex": "#d0c090",
+          "count": 289
+        },
+        {
+          "hex": "#ff7050",
+          "count": 277
+        },
+        {
+          "hex": "#d02020",
+          "count": 252
+        },
+        {
+          "hex": "#b01020",
+          "count": 204
+        }
+      ]
+    },
+    {
+      "file": "1780067590654.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780067590654.jpg",
+      "width": 1093,
+      "height": 887,
+      "aspect_ratio": 1.2322,
+      "palette": [
+        {
+          "hex": "#ffa0a0",
+          "count": 1491
+        },
+        {
+          "hex": "#d0f0ff",
+          "count": 884
+        },
+        {
+          "hex": "#ffc0d0",
+          "count": 869
+        },
+        {
+          "hex": "#ffe0a0",
+          "count": 826
+        },
+        {
+          "hex": "#d0f0c0",
+          "count": 769
+        },
+        {
+          "hex": "#b0d0ff",
+          "count": 459
+        },
+        {
+          "hex": "#a0a0ff",
+          "count": 423
+        },
+        {
+          "hex": "#ffe0b0",
+          "count": 285
+        },
+        {
+          "hex": "#e0e0ff",
+          "count": 159
+        },
+        {
+          "hex": "#c0d0a0",
+          "count": 136
+        }
+      ]
+    },
+    {
+      "file": "1780067613269.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780067613269.jpg",
+      "width": 1134,
+      "height": 626,
+      "aspect_ratio": 1.8115,
+      "palette": [
+        {
+          "hex": "#ff9090",
+          "count": 3429
+        },
+        {
+          "hex": "#ffe0e0",
+          "count": 1214
+        },
+        {
+          "hex": "#a0e0ff",
+          "count": 692
+        },
+        {
+          "hex": "#80a0ff",
+          "count": 558
+        },
+        {
+          "hex": "#a0ffff",
+          "count": 507
+        },
+        {
+          "hex": "#ff8090",
+          "count": 345
+        },
+        {
+          "hex": "#ffd0d0",
+          "count": 252
+        },
+        {
+          "hex": "#fff0a0",
+          "count": 244
+        },
+        {
+          "hex": "#ffb0b0",
+          "count": 233
+        },
+        {
+          "hex": "#b0ffff",
+          "count": 185
+        }
+      ]
+    },
+    {
+      "file": "1780067648834.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780067648834.jpg",
+      "width": 1139,
+      "height": 976,
+      "aspect_ratio": 1.167,
+      "palette": [
+        {
+          "hex": "#ffd0c0",
+          "count": 759
+        },
+        {
+          "hex": "#b0ffff",
+          "count": 627
+        },
+        {
+          "hex": "#b0e0ff",
+          "count": 522
+        },
+        {
+          "hex": "#ffffb0",
+          "count": 293
+        },
+        {
+          "hex": "#a0ffff",
+          "count": 268
+        },
+        {
+          "hex": "#d0ffff",
+          "count": 241
+        },
+        {
+          "hex": "#d0e0c0",
+          "count": 178
+        },
+        {
+          "hex": "#f0d0b0",
+          "count": 167
+        },
+        {
+          "hex": "#b0f0ff",
+          "count": 141
+        },
+        {
+          "hex": "#fff0a0",
+          "count": 138
+        }
+      ]
+    },
+    {
+      "file": "1780068633770.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780068633770.jpg",
+      "width": 1094,
+      "height": 1036,
+      "aspect_ratio": 1.056,
+      "palette": [
+        {
+          "hex": "#d0e0f0",
+          "count": 34412
+        },
+        {
+          "hex": "#d0e0e0",
+          "count": 868
+        },
+        {
+          "hex": "#d0f0f0",
+          "count": 386
+        },
+        {
+          "hex": "#d0ffff",
+          "count": 316
+        },
+        {
+          "hex": "#a0b0b0",
+          "count": 213
+        },
+        {
+          "hex": "#e0f0f0",
+          "count": 171
+        },
+        {
+          "hex": "#b0c0c0",
+          "count": 165
+        },
+        {
+          "hex": "#c0e0e0",
+          "count": 163
+        },
+        {
+          "hex": "#c00000",
+          "count": 163
+        },
+        {
+          "hex": "#90a0a0",
+          "count": 157
+        }
+      ]
+    },
+    {
+      "file": "1780068670042.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780068670042.jpg",
+      "width": 1108,
+      "height": 621,
+      "aspect_ratio": 1.7842,
+      "palette": [
+        {
+          "hex": "#fff0d0",
+          "count": 4085
+        },
+        {
+          "hex": "#d090f0",
+          "count": 1166
+        },
+        {
+          "hex": "#d0ffff",
+          "count": 1083
+        },
+        {
+          "hex": "#e0f0ff",
+          "count": 665
+        },
+        {
+          "hex": "#fff0b0",
+          "count": 629
+        },
+        {
+          "hex": "#ff8080",
+          "count": 410
+        },
+        {
+          "hex": "#ffe0e0",
+          "count": 392
+        },
+        {
+          "hex": "#c0f0ff",
+          "count": 305
+        },
+        {
+          "hex": "#ffd080",
+          "count": 253
+        },
+        {
+          "hex": "#d090ff",
+          "count": 195
+        }
+      ]
+    },
+    {
+      "file": "1780069243434.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780069243434.jpg",
+      "width": 585,
+      "height": 738,
+      "aspect_ratio": 0.7927,
+      "palette": [
+        {
+          "hex": "#ffffd0",
+          "count": 1358
+        },
+        {
+          "hex": "#ffe090",
+          "count": 909
+        },
+        {
+          "hex": "#e0f0f0",
+          "count": 532
+        },
+        {
+          "hex": "#ffe0d0",
+          "count": 489
+        },
+        {
+          "hex": "#d05000",
+          "count": 465
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 454
+        },
+        {
+          "hex": "#c05000",
+          "count": 448
+        },
+        {
+          "hex": "#ffffc0",
+          "count": 384
+        },
+        {
+          "hex": "#f0f0d0",
+          "count": 348
+        },
+        {
+          "hex": "#ffffe0",
+          "count": 327
+        }
+      ]
+    },
+    {
+      "file": "1780284365196.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780284365196.jpg",
+      "width": 904,
+      "height": 1003,
+      "aspect_ratio": 0.9013,
+      "palette": [
+        {
+          "hex": "#c0b0d0",
+          "count": 1059
+        },
+        {
+          "hex": "#8060a0",
+          "count": 523
+        },
+        {
+          "hex": "#a0d0a0",
+          "count": 495
+        },
+        {
+          "hex": "#40b040",
+          "count": 470
+        },
+        {
+          "hex": "#f0c090",
+          "count": 329
+        },
+        {
+          "hex": "#f08010",
+          "count": 327
+        },
+        {
+          "hex": "#50b050",
+          "count": 120
+        },
+        {
+          "hex": "#f08020",
+          "count": 116
+        },
+        {
+          "hex": "#d0c0e0",
+          "count": 86
+        },
+        {
+          "hex": "#90d090",
+          "count": 85
+        }
+      ]
+    },
+    {
+      "file": "1780562314240.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780562314240.jpg",
+      "width": 785,
+      "height": 619,
+      "aspect_ratio": 1.2682,
+      "palette": [
+        {
+          "hex": "#d07090",
+          "count": 1176
+        },
+        {
+          "hex": "#c06090",
+          "count": 1102
+        },
+        {
+          "hex": "#e09090",
+          "count": 1071
+        },
+        {
+          "hex": "#c070a0",
+          "count": 961
+        },
+        {
+          "hex": "#b05080",
+          "count": 910
+        },
+        {
+          "hex": "#e08090",
+          "count": 898
+        },
+        {
+          "hex": "#e0a090",
+          "count": 897
+        },
+        {
+          "hex": "#e080a0",
+          "count": 895
+        },
+        {
+          "hex": "#a04080",
+          "count": 877
+        },
+        {
+          "hex": "#d070a0",
+          "count": 865
+        }
+      ]
+    },
+    {
+      "file": "1780563169327.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780563169327.jpg",
+      "width": 1066,
+      "height": 936,
+      "aspect_ratio": 1.1389,
+      "palette": [
+        {
+          "hex": "#90d0c0",
+          "count": 1010
+        },
+        {
+          "hex": "#80b0d0",
+          "count": 730
+        },
+        {
+          "hex": "#c0c0e0",
+          "count": 472
+        },
+        {
+          "hex": "#c0e0e0",
+          "count": 288
+        },
+        {
+          "hex": "#ffe090",
+          "count": 212
+        },
+        {
+          "hex": "#ffe080",
+          "count": 201
+        },
+        {
+          "hex": "#f0e0a0",
+          "count": 184
+        },
+        {
+          "hex": "#fff0b0",
+          "count": 180
+        },
+        {
+          "hex": "#f05050",
+          "count": 149
+        },
+        {
+          "hex": "#f09080",
+          "count": 148
+        }
+      ]
+    },
+    {
+      "file": "1780563219601.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780563219601.jpg",
+      "width": 1139,
+      "height": 957,
+      "aspect_ratio": 1.1902,
+      "palette": [
+        {
+          "hex": "#a0b0c0",
+          "count": 1209
+        },
+        {
+          "hex": "#ffb0c0",
+          "count": 684
+        },
+        {
+          "hex": "#ffd0d0",
+          "count": 566
+        },
+        {
+          "hex": "#fff0e0",
+          "count": 540
+        },
+        {
+          "hex": "#ffc090",
+          "count": 532
+        },
+        {
+          "hex": "#c0a0e0",
+          "count": 507
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 479
+        },
+        {
+          "hex": "#d0f0f0",
+          "count": 455
+        },
+        {
+          "hex": "#f0d0d0",
+          "count": 428
+        },
+        {
+          "hex": "#90d0d0",
+          "count": 415
+        }
+      ]
+    },
+    {
+      "file": "1780565504711.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780565504711.jpg",
+      "width": 1015,
+      "height": 1222,
+      "aspect_ratio": 0.8306,
+      "palette": [
+        {
+          "hex": "#c0e0c0",
+          "count": 307
+        },
+        {
+          "hex": "#f0c0d0",
+          "count": 253
+        },
+        {
+          "hex": "#f0d0e0",
+          "count": 250
+        },
+        {
+          "hex": "#e0b0c0",
+          "count": 225
+        },
+        {
+          "hex": "#c0e0e0",
+          "count": 216
+        },
+        {
+          "hex": "#f0e0c0",
+          "count": 207
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 183
+        },
+        {
+          "hex": "#d0b0c0",
+          "count": 141
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 141
+        },
+        {
+          "hex": "#e0c0d0",
+          "count": 136
+        }
+      ]
+    },
+    {
+      "file": "1780565748106.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780565748106.jpg",
+      "width": 574,
+      "height": 564,
+      "aspect_ratio": 1.0177,
+      "palette": [
+        {
+          "hex": "#d0b090",
+          "count": 1148
+        },
+        {
+          "hex": "#ffe0c0",
+          "count": 966
+        },
+        {
+          "hex": "#ffc080",
+          "count": 251
+        },
+        {
+          "hex": "#ff8010",
+          "count": 147
+        },
+        {
+          "hex": "#ffc090",
+          "count": 131
+        },
+        {
+          "hex": "#ffa050",
+          "count": 115
+        },
+        {
+          "hex": "#ff0000",
+          "count": 114
+        },
+        {
+          "hex": "#ffd0a0",
+          "count": 82
+        },
+        {
+          "hex": "#ffb070",
+          "count": 80
+        },
+        {
+          "hex": "#ffd0b0",
+          "count": 73
+        }
+      ]
+    },
+    {
+      "file": "1780566194614.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780566194614.jpg",
+      "width": 1122,
+      "height": 845,
+      "aspect_ratio": 1.3278,
+      "palette": [
+        {
+          "hex": "#c080d0",
+          "count": 3859
+        },
+        {
+          "hex": "#e070ff",
+          "count": 648
+        },
+        {
+          "hex": "#c0e0ff",
+          "count": 628
+        },
+        {
+          "hex": "#c070d0",
+          "count": 336
+        },
+        {
+          "hex": "#70b0ff",
+          "count": 292
+        },
+        {
+          "hex": "#50b020",
+          "count": 260
+        },
+        {
+          "hex": "#90d060",
+          "count": 223
+        },
+        {
+          "hex": "#d0f0ff",
+          "count": 208
+        },
+        {
+          "hex": "#c0f0ff",
+          "count": 201
+        },
+        {
+          "hex": "#307010",
+          "count": 191
+        }
+      ]
+    },
+    {
+      "file": "1780566215886.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780566215886.jpg",
+      "width": 1102,
+      "height": 832,
+      "aspect_ratio": 1.3245,
+      "palette": [
+        {
+          "hex": "#70b070",
+          "count": 2247
+        },
+        {
+          "hex": "#70b000",
+          "count": 392
+        },
+        {
+          "hex": "#80c080",
+          "count": 331
+        },
+        {
+          "hex": "#b0d030",
+          "count": 250
+        },
+        {
+          "hex": "#a0d010",
+          "count": 186
+        },
+        {
+          "hex": "#c0e0ff",
+          "count": 177
+        },
+        {
+          "hex": "#d0f0ff",
+          "count": 160
+        },
+        {
+          "hex": "#90d040",
+          "count": 125
+        },
+        {
+          "hex": "#e0f0ff",
+          "count": 110
+        },
+        {
+          "hex": "#90c090",
+          "count": 110
+        }
+      ]
+    },
+    {
+      "file": "1780566233817.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780566233817.jpg",
+      "width": 1123,
+      "height": 1030,
+      "aspect_ratio": 1.0903,
+      "palette": [
+        {
+          "hex": "#e0b0f0",
+          "count": 642
+        },
+        {
+          "hex": "#e0c0f0",
+          "count": 566
+        },
+        {
+          "hex": "#f0c0f0",
+          "count": 382
+        },
+        {
+          "hex": "#b0c0d0",
+          "count": 349
+        },
+        {
+          "hex": "#d0a0f0",
+          "count": 345
+        },
+        {
+          "hex": "#d0a0e0",
+          "count": 152
+        },
+        {
+          "hex": "#f0d0f0",
+          "count": 149
+        },
+        {
+          "hex": "#c0d0e0",
+          "count": 148
+        },
+        {
+          "hex": "#f0d0e0",
+          "count": 138
+        },
+        {
+          "hex": "#f0c0d0",
+          "count": 128
+        }
+      ]
+    },
+    {
+      "file": "1780566253715.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1780566253715.jpg",
+      "width": 1131,
+      "height": 811,
+      "aspect_ratio": 1.3946,
+      "palette": [
+        {
+          "hex": "#60a0a0",
+          "count": 3458
+        },
+        {
+          "hex": "#80b0a0",
+          "count": 3139
+        },
+        {
+          "hex": "#70b0a0",
+          "count": 2920
+        },
+        {
+          "hex": "#70a0a0",
+          "count": 1521
+        },
+        {
+          "hex": "#50a0a0",
+          "count": 1415
+        },
+        {
+          "hex": "#a0c0b0",
+          "count": 1411
+        },
+        {
+          "hex": "#b0d0b0",
+          "count": 1249
+        },
+        {
+          "hex": "#90c0b0",
+          "count": 1215
+        },
+        {
+          "hex": "#e0c0c0",
+          "count": 1064
+        },
+        {
+          "hex": "#90c0a0",
+          "count": 861
+        }
+      ]
+    },
+    {
+      "file": "1b3eaa9f4d2b14f759f370d89526d2a.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\1b3eaa9f4d2b14f759f370d89526d2a.jpg",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "palette": [
+        {
+          "hex": "#e0c0d0",
+          "count": 1290
+        },
+        {
+          "hex": "#b0c0d0",
+          "count": 1262
+        },
+        {
+          "hex": "#9090c0",
+          "count": 1061
+        },
+        {
+          "hex": "#80a0c0",
+          "count": 794
+        },
+        {
+          "hex": "#c05080",
+          "count": 724
+        },
+        {
+          "hex": "#d090b0",
+          "count": 717
+        },
+        {
+          "hex": "#e0b0c0",
+          "count": 286
+        },
+        {
+          "hex": "#6080b0",
+          "count": 257
+        },
+        {
+          "hex": "#d070a0",
+          "count": 238
+        },
+        {
+          "hex": "#90b0d0",
+          "count": 236
+        }
+      ]
+    },
+    {
+      "file": "44ceac9559e47b949931ad6de24463c.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\44ceac9559e47b949931ad6de24463c.jpg",
+      "width": 1733,
+      "height": 1209,
+      "aspect_ratio": 1.4334,
+      "palette": [
+        {
+          "hex": "#ffa000",
+          "count": 1629
+        },
+        {
+          "hex": "#fff0d0",
+          "count": 1467
+        },
+        {
+          "hex": "#c05090",
+          "count": 1128
+        },
+        {
+          "hex": "#ff6060",
+          "count": 1077
+        },
+        {
+          "hex": "#605090",
+          "count": 1071
+        },
+        {
+          "hex": "#004060",
+          "count": 985
+        },
+        {
+          "hex": "#f0d0d0",
+          "count": 612
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 374
+        },
+        {
+          "hex": "#505090",
+          "count": 339
+        },
+        {
+          "hex": "#b05080",
+          "count": 303
+        }
+      ]
+    },
+    {
+      "file": "62afbca80fe2a8963f2b341d220cd05.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\62afbca80fe2a8963f2b341d220cd05.jpg",
+      "width": 1329,
+      "height": 809,
+      "aspect_ratio": 1.6428,
+      "palette": [
+        {
+          "hex": "#ffffc0",
+          "count": 672
+        },
+        {
+          "hex": "#e0a080",
+          "count": 433
+        },
+        {
+          "hex": "#80b050",
+          "count": 326
+        },
+        {
+          "hex": "#c0b0d0",
+          "count": 324
+        },
+        {
+          "hex": "#e00000",
+          "count": 323
+        },
+        {
+          "hex": "#a0a0e0",
+          "count": 285
+        },
+        {
+          "hex": "#d08060",
+          "count": 282
+        },
+        {
+          "hex": "#709030",
+          "count": 276
+        },
+        {
+          "hex": "#e0d0f0",
+          "count": 237
+        },
+        {
+          "hex": "#a0a0f0",
+          "count": 209
+        }
+      ]
+    },
+    {
+      "file": "736fb48a12c9739c818cc7ad01cdd5f.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\736fb48a12c9739c818cc7ad01cdd5f.jpg",
+      "width": 1440,
+      "height": 1712,
+      "aspect_ratio": 0.8411,
+      "palette": [
+        {
+          "hex": "#f0e0c0",
+          "count": 1458
+        },
+        {
+          "hex": "#5090b0",
+          "count": 1135
+        },
+        {
+          "hex": "#a0d0e0",
+          "count": 989
+        },
+        {
+          "hex": "#d0a040",
+          "count": 824
+        },
+        {
+          "hex": "#a0c0d0",
+          "count": 817
+        },
+        {
+          "hex": "#a0c0e0",
+          "count": 635
+        },
+        {
+          "hex": "#2060a0",
+          "count": 627
+        },
+        {
+          "hex": "#e0e0c0",
+          "count": 586
+        },
+        {
+          "hex": "#f0d060",
+          "count": 567
+        },
+        {
+          "hex": "#4080b0",
+          "count": 539
+        }
+      ]
+    },
+    {
+      "file": "849f6f2eb65e6970e64e81c2c5fef94.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\849f6f2eb65e6970e64e81c2c5fef94.jpg",
+      "width": 1440,
+      "height": 596,
+      "aspect_ratio": 2.4161,
+      "palette": [
+        {
+          "hex": "#f0e0c0",
+          "count": 1606
+        },
+        {
+          "hex": "#90b0d0",
+          "count": 790
+        },
+        {
+          "hex": "#2060a0",
+          "count": 507
+        },
+        {
+          "hex": "#e0e0c0",
+          "count": 377
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 285
+        },
+        {
+          "hex": "#a0c0d0",
+          "count": 278
+        },
+        {
+          "hex": "#a0c0e0",
+          "count": 244
+        },
+        {
+          "hex": "#1060a0",
+          "count": 207
+        },
+        {
+          "hex": "#a0b0d0",
+          "count": 177
+        },
+        {
+          "hex": "#b0c0d0",
+          "count": 164
+        }
+      ]
+    },
+    {
+      "file": "89f0af285afb9eee26fbabd9216d6c6c_.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\89f0af285afb9eee26fbabd9216d6c6c_.jpg",
+      "width": 1536,
+      "height": 1280,
+      "aspect_ratio": 1.2,
+      "palette": [
+        {
+          "hex": "#a0d0d0",
+          "count": 303
+        },
+        {
+          "hex": "#f0d080",
+          "count": 134
+        },
+        {
+          "hex": "#b0d0d0",
+          "count": 102
+        },
+        {
+          "hex": "#c0e0e0",
+          "count": 91
+        },
+        {
+          "hex": "#f0e090",
+          "count": 89
+        },
+        {
+          "hex": "#f0d090",
+          "count": 87
+        },
+        {
+          "hex": "#f0e0a0",
+          "count": 84
+        },
+        {
+          "hex": "#e0b0c0",
+          "count": 78
+        },
+        {
+          "hex": "#ffd080",
+          "count": 78
+        },
+        {
+          "hex": "#f0e080",
+          "count": 61
+        }
+      ]
+    },
+    {
+      "file": "9f3dd823cf549457321cb158fc9da0f0_.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\9f3dd823cf549457321cb158fc9da0f0_.jpg",
+      "width": 1536,
+      "height": 1280,
+      "aspect_ratio": 1.2,
+      "palette": [
+        {
+          "hex": "#e090b0",
+          "count": 805
+        },
+        {
+          "hex": "#e0b0c0",
+          "count": 468
+        },
+        {
+          "hex": "#f0d0d0",
+          "count": 380
+        },
+        {
+          "hex": "#e0a0b0",
+          "count": 348
+        },
+        {
+          "hex": "#f0c0d0",
+          "count": 342
+        },
+        {
+          "hex": "#3070a0",
+          "count": 317
+        },
+        {
+          "hex": "#f0b0c0",
+          "count": 274
+        },
+        {
+          "hex": "#e0c0d0",
+          "count": 244
+        },
+        {
+          "hex": "#e0c0c0",
+          "count": 243
+        },
+        {
+          "hex": "#f0d0e0",
+          "count": 221
+        }
+      ]
+    },
+    {
+      "file": "a64d7695ca8c502edd1044203a072aeb_.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\a64d7695ca8c502edd1044203a072aeb_.jpg",
+      "width": 1280,
+      "height": 1494,
+      "aspect_ratio": 0.8568,
+      "palette": [
+        {
+          "hex": "#3080c0",
+          "count": 214
+        },
+        {
+          "hex": "#2080c0",
+          "count": 140
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 90
+        },
+        {
+          "hex": "#405060",
+          "count": 74
+        },
+        {
+          "hex": "#60a0d0",
+          "count": 70
+        },
+        {
+          "hex": "#e0d0c0",
+          "count": 68
+        },
+        {
+          "hex": "#f0f0d0",
+          "count": 61
+        },
+        {
+          "hex": "#3080b0",
+          "count": 54
+        },
+        {
+          "hex": "#e080e0",
+          "count": 53
+        },
+        {
+          "hex": "#d0c0a0",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "file": "ac284231350de50596373958fe1dd5c.png",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\ac284231350de50596373958fe1dd5c.png",
+      "width": 2168,
+      "height": 1487,
+      "aspect_ratio": 1.458,
+      "palette": [
+        {
+          "hex": "#c0d0e0",
+          "count": 449
+        },
+        {
+          "hex": "#f0c0c0",
+          "count": 355
+        },
+        {
+          "hex": "#c04030",
+          "count": 346
+        },
+        {
+          "hex": "#5080b0",
+          "count": 327
+        },
+        {
+          "hex": "#f0d0c0",
+          "count": 296
+        },
+        {
+          "hex": "#c04040",
+          "count": 281
+        },
+        {
+          "hex": "#b0c0d0",
+          "count": 243
+        },
+        {
+          "hex": "#c06050",
+          "count": 236
+        },
+        {
+          "hex": "#f0e0d0",
+          "count": 229
+        },
+        {
+          "hex": "#f0e0e0",
+          "count": 208
+        }
+      ]
+    },
+    {
+      "file": "b355241a761c6e1f2ff05c28986a248.jpg",
+      "path": "E:\\01 论文\\01 PKU papers\\未来SDG\\绘图\\图库\\b355241a761c6e1f2ff05c28986a248.jpg",
+      "width": 1440,
+      "height": 834,
+      "aspect_ratio": 1.7266,
+      "palette": [
+        {
+          "hex": "#5090b0",
+          "count": 1261
+        },
+        {
+          "hex": "#f0e0c0",
+          "count": 1102
+        },
+        {
+          "hex": "#a0d0e0",
+          "count": 1028
+        },
+        {
+          "hex": "#2060a0",
+          "count": 644
+        },
+        {
+          "hex": "#a0c0e0",
+          "count": 569
+        },
+        {
+          "hex": "#f0d060",
+          "count": 564
+        },
+        {
+          "hex": "#1060a0",
+          "count": 564
+        },
+        {
+          "hex": "#d0a040",
+          "count": 550
+        },
+        {
+          "hex": "#e0e0c0",
+          "count": 548
+        },
+        {
+          "hex": "#a0c0d0",
+          "count": 545
+        }
+      ]
+    }
+  ]
+}

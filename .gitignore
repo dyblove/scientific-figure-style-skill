@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+.DS_Store
+Thumbs.db
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+# Local scratch outputs from figure experiments.
+outputs/
+output/
+tmp/
+temp/
+*.log
+
+# Keep curated reference metadata under references/, but ignore ad hoc scan workspaces.
+gallery_scan/
+skill_test_workspace/

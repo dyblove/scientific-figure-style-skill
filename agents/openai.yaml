@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Figure Style"
+  short_description: "Nature-style layouts, palettes, and panel logic."
+  default_prompt: "Use $scientific-figure-style to design a high-density, Nature-style multi-panel scientific figure from my data and visual references."
