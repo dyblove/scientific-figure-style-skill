@@ -1,4 +1,4 @@
-# Scientific Figure Style
+# Scientific Figure Style Skill
 
 A Codex skill for designing, critiquing, replicating, and implementing high-density scientific figures in a Nature/Science-style visual language.
 
@@ -69,7 +69,7 @@ This copies visual grammar, not data values or scientific content.
 Clone or copy this folder into your Codex skills directory:
 
 ```powershell
-git clone https://github.com/dyblove/scientific-figure-style.git "$env:USERPROFILE\.codex\skills\scientific-figure-style"
+git clone https://github.com/dyblove/scientific-figure-style-skill.git "$env:USERPROFILE\.codex\skills\scientific-figure-style"
 ```
 
 Then use it by naming `scientific-figure-style` in a Codex task, or by asking for publication-style scientific figure design, critique, revision, or replication.
